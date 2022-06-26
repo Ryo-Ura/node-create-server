@@ -1,0 +1,28 @@
+{
+  "name": "node_creating_server",
+  "version": "1.0.0",
+  "description": "from section 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryo-Ura/Node-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryo-Ura/Node-Study/issues"
+  },
+  "homepage": "https://github.com/Ryo-Ura/Node-Study#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemon": "^2.0.16",
+    "pug": "^3.0.2"
+  }
+}

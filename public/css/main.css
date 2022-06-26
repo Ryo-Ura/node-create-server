@@ -3,6 +3,9 @@
 * {
     box-sizing: border-box;
 }
+.message{
+    text-align: center;
+}
 
 body {
     padding: 0;

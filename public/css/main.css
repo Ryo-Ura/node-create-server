@@ -67,6 +67,9 @@ main {
     display: inline-block;
     margin: 10px;
 }
+.card__header{
+    background-color: beige;
+}
 
 .card__header,
 .card__content {
